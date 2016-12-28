@@ -6,9 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Maxim Patsianskiy",
+  "author": "Sergey Anasov",
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.13.4"
+    "express": "^4.14.0"
   }
 }
